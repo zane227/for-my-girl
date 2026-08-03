@@ -1,12 +1,10 @@
 const words = [
-    "Happy",
-    "National",
-    "Girlfriend",
-    "Day",
+    "Fighting",
+    "You Can Do",
     "Mg",
     "Thae",
     "tone",
-    "lay" ,
+    "lay",
     "❤️",
 ];
 
